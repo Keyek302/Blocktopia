@@ -1,6 +1,6 @@
 # 🧱 Blocktopia
 
-A Roblox-style blocky hub world with minigames, built with plain JavaScript and [Three.js](https://threejs.org/). No build step, no ads, no paywalls. Everything runs offline once loaded.
+A blocky hub world with minigames, built with plain JavaScript and [Three.js](https://threejs.org/). No build step, no ads, no paywalls. Everything runs offline once loaded.
 
 ## Play
 
